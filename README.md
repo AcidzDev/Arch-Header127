@@ -7,7 +7,7 @@ Requirements
 ```Pip3```
 
 Pre install
-```pip3 install wget
+```pip3 install wget```
 
 Installation
 ``` git clone https://github.com/AcidzDev/Arch-Header127.git ```
