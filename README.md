@@ -3,8 +3,8 @@ Arch-Patcher.pyArch-Header127
 This script will download and patch the kernel for Header127 bug with AMD Vega GPU UEFI reset bug
 
 Requirements
-``Python 3```
-```Pip3```
+```Python 3
+   Pip3```
 
 Pre install
 ```pip3 install wget```
